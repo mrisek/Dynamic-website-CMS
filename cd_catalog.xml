@@ -1,0 +1,31 @@
+<!-- XML document
+hotel, sobe, bazen, terasa, vrt
+ -->
+
+<CATALOG>
+	<CD>
+		<GALERIJA>Hotel</GALERIJA>
+		<OPIS>Hotel Opatija nalazi se na vrhunskoj lokaciji u središtu Opatije, a smješten je u povijesnoj zgradi u kojoj su carevi Franjo Josip I. i Vilim II. provodili odmor. U okviru hotela nalazi se aperitiv bar s velikom terasom, a do najbliže plaže ima svega 2 minute hoda.</OPIS>
+	</CD>
+
+	<CD>
+		<GALERIJA>Sobe</GALERIJA>
+		<OPIS>Besplatni bežični pristup internetu dostupan je u cijelom objektu. Sobe su klasično uređene i sadrže TV sa satelitskim programima te vlastitu kuaponicu s tušem. Ljeti se organizira bogat animacijski program.</OPIS>
+	</CD>
+	
+		<CD>
+		<GALERIJA>Bazen</GALERIJA>
+		<OPIS> U sklopu objekta na raspolaganju su unutarnji bazen s morskom vodom, bar i restoran, a u hotelskom predvorju gosti mogu besplatno koristiti bežični pristup internetu.  U sklopu objekta na raspolaganju su unutarnji bazen s morskom vodom, bar i restoran, a u hotelskom predvorju gosti mogu besplatno koristiti bežični pristup internetu.</OPIS>
+	</CD>
+	
+		<CD>
+		<GALERIJA>Terasa</GALERIJA>
+		<OPIS>Na prostranoj hotelskoj terasi s pogledom na Kvarnerski zaljev gosti se mogu opustiti uz birana pića. U hotelskom se restoranu poslužuje švedski stol za doručak, a jednom tjedno za vrijeme večere gosti mogu uživati i u glazbi uživo. Za vrijeme večere dostupna su besplatna pića iz prodajnih automata u restoranu.</OPIS>
+	</CD>
+	
+		<CD>
+		<GALERIJA>Vrt</GALERIJA>
+		<OPIS>Hotel uključuje i klimatiziranu Zlatnu dvoranu s 320 sjedećih mjesta, pogodnu za održavanje kongresa, glazbenih festivala i modnih priredbi. Na pješačkoj udaljenosti od hotela Imperial dostupni su wellness centar i teniski tereni, a gosti odavde lako mogu istražiti i kulturne znamenitosti.</OPIS>
+	</CD>
+	
+</CATALOG>
